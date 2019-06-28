@@ -1,1 +1,1 @@
-# git-test-repo
+This is the code repository for practicing
